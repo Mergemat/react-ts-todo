@@ -35,4 +35,4 @@ const Task = ({ task }: TaskProps) => {
     );
 };
 
-export default Task
+export default Task;
