@@ -1,2 +1,2 @@
 # react-ts-todo
-<img width="1671" alt="image" src="https://user-images.githubusercontent.com/38819496/187023749-b082a9cf-9ba0-4682-80f5-10b7dc694e43.png">
+<img width="1170" alt="image" src="https://user-images.githubusercontent.com/38819496/187023804-588df35b-fa24-4662-baf3-b653cd87b006.png">
